@@ -366,6 +366,9 @@ For the frontend [eslint](https://eslint.org/), [eslint-vue](https://eslint.vuej
 
 ## Testing [`⇧`](#contents)
 
+> [!TIP]
+> For detailed information about test metrics, coverage requirements, and quality tools, see [METRICAS_DE_TESTES.md](./METRICAS_DE_TESTES.md).
+
 ### Backend
 
 Please run the following commands from the project root to test the backend:

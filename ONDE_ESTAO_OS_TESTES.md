@@ -147,17 +147,23 @@ O repositório possui documentação detalhada sobre como escrever e executar te
 
 ### Documentos Principais
 
-1. **BACKEND_TESTING.md**
+1. **METRICAS_DE_TESTES.md**
+   - Métricas de testes e cobertura de código
+   - Ferramentas de qualidade e análise
+   - Testes de segurança e acessibilidade
+   - Integração contínua (CI/CD)
+
+2. **BACKEND_TESTING.md**
    - Padrões para testes do backend
    - Convenções de nomenclatura
    - Estrutura de diretórios de testes
 
-2. **FRONTEND_TESTING.md**
+3. **FRONTEND_TESTING.md**
    - Guia de testes E2E
    - Guia de testes de componentes e unidade
    - Melhores práticas para testes frontend
 
-3. **CONTRIBUTING.md** (Seção de Testes)
+4. **CONTRIBUTING.md** (Seção de Testes)
    - Como executar testes do backend
    - Como executar testes do frontend
    - Como executar testes E2E localmente e remotamente
@@ -209,6 +215,7 @@ find frontend -name "*.test.ts" -o -name "*.spec.ts" | wc -l
 
 ## 📚 Referências
 
+- [METRICAS_DE_TESTES.md](./METRICAS_DE_TESTES.md) - Métricas de testes e cobertura de código
 - [CONTRIBUTING.md](./CONTRIBUTING.md#testing-) - Guia de contribuição com instruções de testes
 - [BACKEND_TESTING.md](./BACKEND_TESTING.md) - Documentação completa de testes backend
 - [FRONTEND_TESTING.md](./FRONTEND_TESTING.md) - Documentação completa de testes frontend
